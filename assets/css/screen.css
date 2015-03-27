@@ -1345,6 +1345,11 @@ body:not(.post-template) .post-title {
     margin-bottom: 1.75em;
 }
 
+/* duoshuo */
+.ds-thread-count{
+  float: right;
+}
+
 /* ==========================================================================
    8. Pagination - Tools to let you flick between pages
    ========================================================================== */
